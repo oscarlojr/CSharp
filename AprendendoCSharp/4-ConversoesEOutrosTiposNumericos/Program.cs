@@ -19,7 +19,7 @@ namespace _4_ConversoesEOutrosTiposNumericos
             long idade = 1300000000000000000;
             Console.WriteLine(idade);
 
-            //O short é um tipo de variável de 32 bits
+            //O short é um tipo de variável de 16 bits
             short quantidadeProdutos = 15000;
             Console.WriteLine(quantidadeProdutos);
 
